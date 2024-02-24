@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <!--==================== FAVICON ====================-->
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <!--==================== UNICONS ====================-->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
+    <!--==================== CSS ====================-->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <div id="weather-container">
+        <h2>Weather App</h2>
+        <!-- search city -->
+        <p id="error-msg"></p>
+        <input type="text" id="city" placeholder="Enter city">
+        <button id="search-btn">Search <i class="uil uil-search"></i></button>
+
+        <img alt="Weather Icon" id="weather-icon">
+
+        <!-- infos about weather -->
+        <div id="temp-info"></div>
+        <div id="weather-info"></div>
+        <div id="hourly-forecast"></div>
+    </div>
+
+    <footer>
+        <span>Made with 💦 | &copy;2024 - L§DEV</span>
+    </footer>
+
+    <!--==================== JS ====================-->
+    <script src="./script.js"></script>
+</body>
+
+</html>
