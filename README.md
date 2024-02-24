@@ -1,7 +1,15 @@
 # Weather App
 A simple weather app using HTML, CSS, Javascript and a weather API to display current weather and hourly forecast.
 
-Added:
+## Preview
+
+Search form
+![preview img 1](https://github.com/LSS-commits/simple_weather_app/blob/main/preview1.png)
+
+Data display
+![preview img 2](https://github.com/LSS-commits/simple_weather_app/blob/main/preview2.png)
+
+## Added
 - Country name and flag
 - Scrollbar colors
 - Nighttime indication
