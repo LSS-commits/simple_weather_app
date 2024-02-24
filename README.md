@@ -11,7 +11,7 @@ Data display
 
 ## Added
 - Country name and flag
-- Scrollbar colors
+- Scrollbar colors 
 - Nighttime indication
 - Error messages instead of alerts
 - Mini footer
