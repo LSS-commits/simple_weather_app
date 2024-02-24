@@ -1,7 +1,7 @@
 # Weather App
 A simple weather app using HTML, CSS, Javascript and a weather API to display current weather and hourly forecast.
 
-Added
+Added:
 - Country name and flag
 - Scrollbar colors
 - Nighttime indication
