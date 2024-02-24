@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 🔆
 A simple weather app using HTML, CSS, Javascript and a weather API to display current weather and hourly forecast.
 
 ## Preview
