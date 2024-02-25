@@ -17,6 +17,10 @@ Data display
 - Mini footer
 - Search on Enter keypress
 
+## Proposed improvements
+- Responsive style
+
+
 ## Tools
 - [Weather API](https://openweathermap.org/)
 - [Icons](https://iconscout.com/unicons/explore/line)

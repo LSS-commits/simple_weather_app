@@ -120,7 +120,6 @@ const getWeather = () => {
   fetch(currentWeatherURL)
     .then((response) => response.json())
     .then((data) => {
-      console.log(data);
       removeError();
       displayWeather(data);
     })
